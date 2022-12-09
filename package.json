@@ -1,0 +1,15 @@
+{
+  "name": "cy-s_table_component",
+  "description": "Cy's project to make a simple table component",
+  "author":"CyannAkua",
+  "version": "0.1.0",
+  "private": false,
+  "main":"dist/table.js",
+  "module": "dist/table.js",
+  "files": [ "dist", "README.md" ],
+  "devDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  }
+}
